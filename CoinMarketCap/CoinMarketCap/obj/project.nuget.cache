@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGcF2c8slqdMOPExOY063pR4Jz9jmKLi5DtU119SC+tx2GfcnhHSyHwZQkX9eSpOy1FT+f1DpbE1qc0bLAIMag==",
+  "success": true,
+  "projectFilePath": "F:\\CoinMarketCap\\CoinMarketCap\\CoinMarketCap\\CoinMarketCap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
